@@ -1,0 +1,39 @@
+.profile_photo img{
+    width: 82px;
+    height: 82px;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+
+.main_head_profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main_head_profile h1{
+    margin-left: 67px;
+    font-size: 28px;
+    font-weight: 800;
+}
+.main_head_profile button{
+    margin-right: 23%;
+}
+
+.main_right img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.main_right h1{
+    margin-left: 20px;
+}
+.main_right p{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.main_right h2{
+    text-align: center;
+    margin-bottom: 10px;
+}

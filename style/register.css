@@ -1,0 +1,33 @@
+.register{
+    display: flex;
+    width: 100%;
+    height: 725px
+}
+
+.register_left{
+    background-color: #013FA8;
+    width: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.register_right img{
+    width: 112%;
+    height: 724px;
+}
+
+.akk p{
+    color: #fff;
+    position: absolute;
+    top: 77%;
+    left: 302px;
+}
+
+.btn-register{
+    text-decoration: none;
+    padding-top: 11px;
+    text-align: center;
+    
+}

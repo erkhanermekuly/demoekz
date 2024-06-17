@@ -1,0 +1,28 @@
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    gap: 15px;
+    margin-left: 35px;
+}
+
+
+.input input{
+    height: 30px;
+    width: 200px;
+    border: 1px solid #e7e7e7;
+    outline: none;
+    border-radius: 2px;
+}
+
+.input2 input{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 250px;
+    border: 1px solid #e7e7e7;
+    outline: none;
+    border-radius: 2px;
+
+}

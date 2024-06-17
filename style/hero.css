@@ -1,0 +1,28 @@
+.card2{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 90%;
+    padding: 10px;
+}
+
+.card_left{
+    margin-left: 2%;
+    margin-top: 7%;
+}
+.card_left h1{
+    font-size: 24px;
+    margin-bottom: 15%;
+}
+.card_left p{
+    font-weight: 800;
+    font-size: 20px;
+    width: 130%;
+}
+
+.card_right img{
+    margin-left: 90px;
+    width: 569px;
+    height: 409px;
+    border-radius: 1%;
+}

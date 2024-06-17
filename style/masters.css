@@ -1,0 +1,66 @@
+.master{
+    margin-top: 7%;
+    margin-left: 5%;
+}
+.master>h1{
+    margin-bottom: 3%;
+}
+
+
+.master-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.master-img img{
+    width: 15%;
+}
+
+.master-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.master-info h1{
+    font-size: 20px;
+}
+
+.master-info-h2{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 203%;
+    left: 5%;
+    right: 0;
+}
+.master-info-h2 h2{
+    font-size: 17px;
+}
+
+.master-info h1:first-child{
+    margin-left: 20px;
+}
+.master-info h1:nth-child(2){
+    margin-left: 13px;
+}
+.master-info h1:nth-child(3){
+    margin-right: 5px;
+}
+.master-info h1:last-child{
+    margin-right: 17px;
+}
+
+.master-info-h2 h2:first-child{
+    margin-left: 28px;
+}
+.master-info-h2 h2:nth-child(2){
+    margin-right: 50px;
+}
+.master-info-h2 h2:nth-child(3){
+    margin-right: 60px;
+}   
+.master-info-h2 h2:last-child{
+    margin-right: 5%;
+}

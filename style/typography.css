@@ -1,0 +1,25 @@
+.h1{
+    font-size: 64px;
+    color: #fff;
+    font-weight: 800;
+    position: absolute;
+    top: 9%;
+    left: 19%;
+    right: 0;
+    bottom: 0;
+}
+
+.akk a{
+    color: #fff;
+}
+
+.login_h1{
+    font-size: 64px;
+    color: #fff;
+    font-weight: 800;
+    position: absolute;
+    top: 9%;
+    left: 38%;
+    right: 0;
+    bottom: 0;
+}

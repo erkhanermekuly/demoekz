@@ -1,0 +1,50 @@
+.button{
+    background-color: #2781CF;
+    color: #fff;
+    width: 14%;
+    height: 6%;
+    position: absolute;
+    top: 70%;
+    bottom: 0;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: .5s;
+}
+.button:hover{
+    background-color: #fff;
+    color: #2781CF;
+    border: 1px solid #2781CF;
+}
+
+.button_login{
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+    top: 63%;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.btn{
+    background-color: #2781CF;
+    color: #fff;
+    width: 14%;
+    height: 6%;
+    position: absolute;
+    top: 70%;
+    bottom: 0;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: .5s;
+}
+
